@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "40354643169",
+    "project_id": "azix-7ffe4",
+    "storage_bucket": "azix-7ffe4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40354643169:android:bca854069a28970736cba0",
+        "android_client_info": {
+          "package_name": "com.example.daada_dapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcAJxNwuq4uQwDRJYIsc_z_SPdykKttP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
