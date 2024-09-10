@@ -1,0 +1,2 @@
+# AZIX
+Azix mining app
